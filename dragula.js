@@ -312,9 +312,9 @@ function dragula (initialContainers, options) {
       clearTimeout(_renderTimer);
     }
     drake.dragging = false;
-    if (_lastDropTarget) {
+    /*if (_lastDropTarget) {
       drake.emit('out', item, _lastDropTarget, _source);
-    }
+    }*/
     drake.emit('dragend', item);
     _source = _item = _copy = _initialSibling = _currentSibling = _renderTimer = _lastDropTarget = null;
   }
