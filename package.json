@@ -1,6 +1,6 @@
 {
-  "name": "dragula",
-  "version": "3.7.2",
+  "name": "@wulf2468/dragula",
+  "version": "3.7.3",
   "description": "Drag and drop so simple it hurts",
   "main": "dragula.js",
   "scripts": {
@@ -20,14 +20,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/bevacqua/dragula.git"
+    "url": "https://github.com/wulf2468/dragula.git"
   },
-  "author": "Nicolas Bevacqua <nicolasbevacqua@gmail.com> (http://bevacqua.io/)",
+  "author": "Wulf2468 <Wulf2468>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bevacqua/dragula/issues"
+    "url": "https://github.com/wulf2468/dragula/issues"
   },
-  "homepage": "https://github.com/bevacqua/dragula",
+  "homepage": "https://github.com/wulf2468/dragula",
   "dependencies": {
     "contra": "1.9.4",
     "crossvent": "1.5.4"
